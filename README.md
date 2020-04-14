@@ -3,7 +3,7 @@ Bu demo https://medium.com/@yilmazcakmakci/context-api-cok-dilli-web-uygulamasi-
 
 ## **Çalıştırmak için**
 ```
-git clone https://github.com/yilmazcakmakci/react-multi-lang-demo
+git clone https://github.com/yilmazcakmakci/react-multi-lang-demo.git
 cd react-multi-lang-demo
 npm i
 npm start
